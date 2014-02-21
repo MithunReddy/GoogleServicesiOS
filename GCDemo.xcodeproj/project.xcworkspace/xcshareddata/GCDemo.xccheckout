@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DD73C9C9-D91D-4A51-9862-599EEA3496B6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GCDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6AE15972-5F03-4A84-BCD2-AD9C11ED4155</key>
+		<string>https://github.com/MithunReddy/GoogleServicesiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GCDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6AE15972-5F03-4A84-BCD2-AD9C11ED4155</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MithunReddy/GoogleServicesiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6AE15972-5F03-4A84-BCD2-AD9C11ED4155</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6AE15972-5F03-4A84-BCD2-AD9C11ED4155</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GoogleServicesiOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
